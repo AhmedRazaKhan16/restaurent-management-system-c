@@ -80,3 +80,15 @@ The Royal Hotel Management System is a console-based application designed to str
 1. **Compile the Source Code**
    ```bash
    gcc -o hotel_management hotel_management.c
+
+
+This README.md provides comprehensive documentation for the Royal Hotel Management System code, including:
+- Complete feature overview
+- Detailed installation and usage instructions
+- Code structure explanation with data structures and functions
+- Technical specifications and limitations
+- Troubleshooting guide
+- Future enhancement possibilities
+
+The documentation is formatted in markdown with clear sections and should help users understand, compile, and use the system effectively.
+
